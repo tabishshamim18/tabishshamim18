@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tabish Shamim</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
+
+
+
 - 🌱 I’m currently learning **Snowflake**
 
 - 👯 I’m looking to collaborate on **data analytics projects.**
@@ -11,7 +14,9 @@
 
 - 📫 How to reach me **tabishshamim94@gmail.com**
 
-- ⚡ Fun fact **I take inspiration from Zoro—focused, determined, and always aiming to improve.**
+- 🧠 **Inspiration:** I draw inspiration from *Itachi Uchiha* — known for his clarity, discipline, and long-term vision. His words, *“Those who cannot acknowledge themselves will eventually fail,”* remind me to reflect and grow continuously.
+
+ ![5Mys](https://github.com/user-attachments/assets/de94d56b-c78a-44bf-a1a3-e9932ad3fba0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tabishshamim18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
