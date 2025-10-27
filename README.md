@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **tabishshamim94@gmail.com**
 
- ![5Mys](https://github.com/user-attachments/assets/de94d56b-c78a-44bf-a1a3-e9932ad3fba0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tabishshamim18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
