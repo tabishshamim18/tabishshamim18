@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **tabishshamim94@gmail.com**
 
-- 🧠 **Inspiration:** I draw inspiration from *Itachi Uchiha* — known for his clarity, discipline, and long-term vision. His words, *“Those who cannot acknowledge themselves will eventually fail,”* remind me to reflect and grow continuously.
-
  ![5Mys](https://github.com/user-attachments/assets/de94d56b-c78a-44bf-a1a3-e9932ad3fba0)
 
 ## 🏆 GitHub Trophies
