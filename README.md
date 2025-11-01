@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Snowflake**
+- 🌱 I’m currently learning **Apache Spark & Databricks**
 
 - 👯 I’m looking to collaborate on **data analytics projects.**
 
